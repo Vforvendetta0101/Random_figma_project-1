@@ -1,0 +1,104 @@
+@media (max-width: 1440px){
+    .section{
+        width: 100%;
+    }
+    .section h1 {
+        font-size: 40px;
+        left: 124px;
+    }
+    .section p{
+        left: 124px;
+    }
+    .payment-container{
+        left: 124px;
+    }
+    .ilustration-1{
+        right: 106px;
+    }
+    .second-section {
+        width: 100%;
+        left: 124px;
+    }
+    .ilustration-2 {
+        left: 124px;
+    }
+    .four-box {
+        left: 50    }
+    .three {
+        right: 200px;
+    }
+    .card-box {
+        width: 370px;
+        height: 920px;
+    }
+    .card-button {
+        width: 260px;
+        text-align: center;
+    }
+    .first {
+        top: 815px;
+    }
+    .card-container {
+        gap: 10px;
+    }
+    .sub-img-container{
+        right: 256px;
+    }
+    .container {
+        box-sizing: border-box;
+    }
+    .ilustration-2{
+        left: -40px;   
+    }
+    .section-text{
+        left: 600px;
+        width: 700px;
+    }
+    .section-h1 {
+        font-size: 60px;
+        width: 700px;
+    }
+    .section-p {
+        margin-top: 250px;
+    }
+    .four-container {
+        width: 500px;
+    }
+    .four-box {
+        right: 280px;
+    }
+    .four-box h1  {
+        font-size: 40px;
+        width: 500px;
+        right: 0;
+        position: absolute;
+    }
+    .four-box p{
+        margin-top: 220px;
+    }
+    .three {
+        right: 0;
+    }
+    .section-three {
+        left: 100px;
+    }
+    .section-four {
+        left: 100px;
+    }
+    .card-container {
+        gap: 70px;
+    }
+    .second-section {
+        left: 100px;
+    }
+    .ilustration-3 {
+        margin-top: 250px;
+        height: 900px;
+    }
+    .sub-img-container {
+        height: 900px;
+    }
+    .section-h1 {
+        font-size: 50px;
+    }
+}

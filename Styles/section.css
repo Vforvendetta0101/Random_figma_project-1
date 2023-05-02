@@ -1,0 +1,345 @@
+.section{
+    display: grid;
+    width: 1515px;
+}
+.section h1 {
+    position: absolute;
+    left: 156px;
+    top: 158px;
+    width: 600px;
+    height: 201px;
+    font-size: 50px;
+    line-height: 80px;
+    font-family: myfont;
+    fill: #151515;
+}
+.section p {
+    margin-top: 20px;
+    position: absolute;
+    left: 156px;
+    top: 400px;
+    width: 565px;
+    height: 52px;
+    font-size: 18px;
+    line-height: 28px;
+    color: #151515;
+    font-family: myfont;
+}
+.payment-container {
+    margin-top: 20px;
+    position: absolute;
+    top: 480px;
+    left: 156px;
+    width: 478px;
+    height: 52px;
+    box-sizing: border-box;
+}
+.input-class {
+    outline: none;
+    border: 1px solid #151515;
+    width: 278px;
+    height: 52px;
+    box-sizing: border-box;
+    padding-left: 20px;
+    color: #151515;
+    border-right: none;
+}
+.input-button {
+    width: 150px;
+    height: 52px;
+    outline: none;
+    box-sizing: border-box;
+    background: #151515;
+    border: none;
+    color: #fff;
+    position: absolute;
+}
+.payment-box {
+    position: absolute;
+    top: 82px;
+}
+.payment-box img {
+    padding-right: 40px;
+}
+.ilustration-1 {
+    float: right;
+    width: 580px;
+    height: 500px;
+    position: absolute;
+    right: 156px;
+    top: 150px;
+}
+.ilustration-2 {
+    float: left;
+    width: 580px;
+    height: 500px;
+    left: 0px;
+    top: 150px;
+    position: absolute;
+}
+.second-section {
+    width: 1515px;
+    margin: auto;
+    position: absolute;
+    top: 824px;
+    display: block;
+    left: 156px;
+}
+.about-box {
+    margin-bottom: 40px;
+    border: 2px solid #151515;
+    padding: 10px;
+    width: 108px;
+    height: 36px;
+    text-align: center;
+    float: right;
+    right: 157px;
+    position: absolute;
+}
+.about-us {
+    font-weight: 900;
+    font-size: 20px;
+    line-height: 40px;
+    text-align: center;
+    font-family: myfont;
+}
+.section-text {
+    left: 781px;
+    width: 800px;
+    position: absolute;
+    float: right;
+    display: inline;
+}
+.section-h1 {
+    font-size: 60px;
+    font-weight: 400;
+    font-family: myfont;
+    line-height: 57px;
+    width: 100%;
+    position: absolute;
+    top: 100px;
+}
+.section-p {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: 400;
+    font-family: myfont;
+    margin-top: 250px;
+
+}
+.section-ul .section-li {
+    font-size: 20px;
+    line-height: 50px;
+    font-family: myfont;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.section-ul img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+.section-three {
+    top: 1620px;
+    position: absolute;
+    width: 1515px;
+    left: 156px;
+}
+.two {
+    left: 0;
+    width: 200px;
+}
+.title-1 {
+    font-size: 60px;
+    width: 800px;
+    margin-top: 70px;
+}
+.sub-container {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    flex-direction: column;
+}
+.sub-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    margin-top: 46px;
+}
+.text-box {
+    margin-left: 45px;
+    width: 464px;
+}
+.text-box h1 {
+    font-size: 28px;
+    line-height: 27px;
+    letter-spacing: -1.4px;
+    font-family: myfont;
+    font-weight: 400;
+}
+.text-box p {
+    margin-top: 20px;
+    font-size: 18px;
+    line-height: 26px;
+    font-family: myfont;
+    font-weight: 400;
+}
+.sub-img-container {
+    float: right;
+    position: absolute;
+    right: 0;
+    bottom: 260px;
+}
+.sub-img-container img {
+    width: 490px;
+    height: 700px;
+}
+.section-four { 
+    width: 1515px;
+    position: absolute;
+    top: 2800px;
+    left: 156px;
+    box-sizing: border-box;
+}
+.four-box {
+    float: right;
+    position: absolute;
+    right: 0px;
+    bottom: 270px;
+    width: 739px;
+    height: 116px;
+}
+.four-box  h1 {
+    font-family: myfont;
+    font-weight: 400;
+    margin-top: 90px;
+    font-size: 60px;
+    line-height: 57px;
+    letter-spacing: -3px;
+}
+.four-box p {
+    font-family: myfont;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    float: right;
+    width: 500px;
+    height: 52px;
+    text-align: end;
+    margin-top: 44px;
+}
+.four-box a {
+    text-decoration: none;
+    text-align: center;
+    line-height: 28px;
+    font-family: myfont;
+    font-weight: 400;
+}
+.three {
+    border: 2px solid #151515;
+    width: 103px;
+    height:25px;
+    position: absolute;
+    bottom: 50px;
+    text-align: center;
+    right: 0;
+    padding: 5px;
+}
+.card-container{
+    position: absolute;
+    margin-top: 50px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 20px;
+    box-sizing: border-box;
+}
+.card-box {
+    margin-bottom: 100px;
+    width: 500px;
+    height: 670px;
+    border: 1px solid #151515;
+    padding: 52px 56px;
+    box-sizing: border-box;
+}
+.card-box span {
+    font-size: 20px;
+    font-family: myfont;
+    font-weight: 900;
+    line-height: 28px;
+    margin-left: -15px;
+    margin-bottom: 50px;
+    display: inline-block;
+    position: absolute;
+}
+.card-box  h1 {
+    font-weight: bold;
+    font-size: 80px;
+    line-height: 77.2px;
+    letter-spacing: -4px;
+    font-family: myfont;
+    display: inline;
+}
+.card-box h2 {
+    display: inline-block;
+    font-size: 20px;
+    font-weight: 800;
+    font-family: myfont;
+    line-height: 28px;
+}
+.card-box  p {
+    font-size: 20px;
+    font-family: myfont;
+    line-height: 28px;
+    font-weight: 400;
+    margin-top: 32px;
+}
+.second-li img {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 30px;
+}
+.content-box p{
+    font-family: myfont;
+    font-weight: 400px; 
+    font-size: 18px;
+    line-height: 26px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.second-ul .second-li {
+    font-size: 20px;
+    line-height: 50px;
+    font-family: myfont;
+    margin-top: 20px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+.first{
+   position: absolute;
+   top: 539px;
+}
+.card-box:nth-child(2) {
+    background-color: #151515;
+    color: #fff;
+}
+.card-box:nth-child(3) {
+    background: #fff;
+}
+#button-1{
+    background-color: #fff;
+    color: #151515;
+}
+.card-button {
+    margin-top: 40px;
+    width: 386px;
+    background-color: #151515;
+    color: white;
+    font-family: myfont;
+    border: none;
+    padding: 15px;
+    height: 52px;
+}
